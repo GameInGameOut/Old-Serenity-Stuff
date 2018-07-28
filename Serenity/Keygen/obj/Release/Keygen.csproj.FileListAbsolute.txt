@@ -1,0 +1,10 @@
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\bin\Release\Keygen.exe.config
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\bin\Release\Keygen.exe
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\bin\Release\Keygen.pdb
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\obj\Release\Keygen.Keygen.resources
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\obj\Release\Keygen.Properties.Resources.resources
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\obj\Release\Keygen.csproj.GenerateResource.cache
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\obj\Release\Keygen.csproj.CoreCompileInputs.cache
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\obj\Release\Keygen.exe
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\obj\Release\Keygen.pdb
+F:\Users\Laxai\Desktop\Qotq-master\Qotq_CSGO\Keygen\obj\Release\Keygen.csprojAssemblyReference.cache
